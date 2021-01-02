@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HISTORY HD" tvg-name="History Channel SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/history.png" group-title="Latinos Dual Audio (E)",History Channel SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35196.m3u8
+#EXTINF:-1 tvg-id="Canal Discovery Science (Latinoamérica)" tvg-name="Discovery Science SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/discoverys.png" group-title="Latinos Dual Audio (E)",Discovery Science SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35202.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD" tvg-name="Discovery Channel SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/discovery.png" group-title="Latinos Dual Audio (E)",Discovery Channel SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35203.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD" tvg-name="Discovery Channel FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/discovery.png" group-title="Latinos Dual Audio (E)",Discovery Channel FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35204.m3u8
+#EXTINF:-1 tvg-id="NATGEO HD" tvg-name="National Geographic SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/natgeo.png" group-title="Latinos Dual Audio (E)",National Geographic SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35210.m3u8
+#EXTINF:-1 tvg-id="NATGEO HD" tvg-name="National Geographic FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/natgeo.png" group-title="Latinos Dual Audio (E)",National Geographic FHD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35211.m3u8
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="Nat Geo Wild SD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/natgeowild.png" group-title="Latinos Dual Audio (E)",Nat Geo Wild SD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35212.m3u8
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="Nat Geo Wild FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/natgeowild.png" group-title="Latinos Dual Audio (E)",Nat Geo Wild FHD (MX) (E)
+http://hidraplay.tv:80/live/APestana/123456/35213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel SD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/dc.png" group-title="Latinos Dual Audio (E)",Disney Channel SD (E)
+http://hidraplay.tv:80/live/APestana/123456/35227.m3u8
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Fox SD (ARG) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/fox.png" group-title="Latinos Dual Audio (E)",Fox SD (ARG) (E)
+http://hidraplay.tv:80/live/APestana/123456/35270.m3u8
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="Fox Life SD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/foxlife.png" group-title="Latinos Dual Audio (E)",Fox Life SD (CO) (E)
+http://hidraplay.tv:80/live/APestana/123456/35271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional FHD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Internacional FHD (US)
+http://hidraplay.tv:80/live/APestana/123456/35088.m3u8
+#EXTINF:-1 tvg-id="TelemundoWKAQ.us" tvg-name="Telemundo Boston HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Boston HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Chicago HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Chicago HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Dallas HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Dallas HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35091.m3u8
+#EXTINF:-1 tvg-id="KDEN.us" tvg-name="Telemundo Denver HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Denver HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35092.m3u8
+#EXTINF:-1 tvg-id="TelemundoWKAQ.us" tvg-name="Telemundo Fresno HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Fresno HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35093.m3u8
+#EXTINF:-1 tvg-id="WTMO.us" tvg-name="Telemundo Harlingen HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Harlingen HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35094.m3u8
+#EXTINF:-1 tvg-id="TelemundoWKAQ.us" tvg-name="Telemundo Houston HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Houston HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Las Vegas HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Las Vegas HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35096.m3u8
+#EXTINF:-1 tvg-id="WTMO.us" tvg-name="Telemundo Los Angeles HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Los Angeles HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35097.m3u8
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo Miami HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Miami HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo New York HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo New York HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35099.m3u8
+#EXTINF:-1 tvg-id="WTMO.us" tvg-name="Telemundo Philadelphia HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Philadelphia HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35100.m3u8
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo Phoenix HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Phoenix HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35101.m3u8
+#EXTINF:-1 tvg-id="TelemundoKVDA.us" tvg-name="Telemundo San Francisco HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo San Francisco HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35103.m3u8
+#EXTINF:-1 tvg-id="TelemundoWKAQ.us" tvg-name="Telemundo Tucson HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Tucson HQ (US)
+http://hidraplay.tv:80/live/APestana/123456/35104.m3u8
+#EXTINF:-1 tvg-id="Galavision.us" tvg-name="Galavisión EAST HD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/galavision.png" group-title="Internacionales",Galavisión EAST HD (US)
+http://hidraplay.tv:80/live/APestana/123456/35130.m3u8
+#EXTINF:-1 tvg-id="Galavision.us" tvg-name="Galavisión Miami HD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/galavision.png" group-title="Internacionales",Galavisión Miami HD (US)
+http://hidraplay.tv:80/live/APestana/123456/35134.m3u8
+#EXTINF:-1 tvg-id="Univision23WLTV.us" tvg-name="Univision Miami HD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision Miami HD (US)
+http://hidraplay.tv:80/live/APestana/123456/35153.m3u8
+#EXTINF:-1 tvg-id="MX - CNN en Español" tvg-name="CNN Español SD (MX)" tvg-logo="http://img.tvcl.xyz/noticias/cnn.png" group-title="Noticias",CNN Español SD (MX)
+http://hidraplay.tv:80/live/APestana/123456/35181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN FHD" tvg-logo="http://img.tvcl.xyz/colombia/rcn.png" group-title="Colombia",CO: RCN FHD
+http://hidraplay.tv:80/live/APestana/123456/43506.m3u8
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="CO: RCN HD" tvg-logo="http://img.tvcl.xyz/colombia/rcn.png" group-title="Colombia",CO: RCN HD
+http://hidraplay.tv:80/live/APestana/123456/43507.m3u8
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="CO: RCN SD" tvg-logo="http://img.tvcl.xyz/colombia/rcn.png" group-title="Colombia",CO: RCN SD
+http://hidraplay.tv:80/live/APestana/123456/43508.m3u8
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="CO: Caracol FHD" tvg-logo="http://img.tvcl.xyz/colombia/caracol.png" group-title="Colombia",CO: Caracol FHD
+http://hidraplay.tv:80/live/APestana/123456/43509.m3u8
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="CO: Caracol HD" tvg-logo="http://img.tvcl.xyz/colombia/caracol.png" group-title="Colombia",CO: Caracol HD
+http://hidraplay.tv:80/live/APestana/123456/43510.m3u8
